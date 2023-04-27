@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.parent{
+	background-color:skyblue;
+}
+#para1{
+	background-color:black;
+	color:white
+	
+}
+#para2,#para3{
+	color:black;
+	
+}
+
+#para4{
+	color:red;
+	
+}
+#li1id{
+	background-color:white;
+	
+}
+#li2id{
+	background-color:slategray;
+	
+}
+#li3id{
+	background-color:lightpink;
+	
+}
+
+
